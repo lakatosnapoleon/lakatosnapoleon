@@ -2,7 +2,7 @@
 - 👀 I’m interested in crypto, football (soccer), music and family
 - 🌱 I’m currently learning data engineering
 - 💞️ I’m looking to collaborate on data projects
-- 📫 How to reach me lakydavid@htomail.com
+- 📫 How to reach me lakydavid@hotmail.com
 - 😄 Pronouns: old-school HE
 - ⚡ Fun fact: I'm not fun
 
